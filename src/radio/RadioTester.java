@@ -9,7 +9,7 @@ package radio;
  * a test class to simulate creating and radio and
  *  carrying out our use case under construction (lower volume
  *  in response to talking).
- *  Hello Sukhreet Singh Rai
+ *  Hello Sukhreet Singh Rai boy
  * @author sivagamasrinivasan
  */
 public class RadioTester
